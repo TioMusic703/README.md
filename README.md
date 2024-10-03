@@ -9,27 +9,7 @@
     </h1>
     <p align="center">
         <a href="https://github.com/TioMusic703/" target="_blank">
-            <img src="https://komarev.com/ghpvc/?username=88JC&label=Profile%20views&style=flat-square" alt="Profile views"/>
-        </a>
-      </p>
-    <p align="center">
-        <a href="https://discord.com/invite/CDD223E3W3" target="_blank">
-            <img src="https://badgen.net/discord/members/CDD223E3W3?style=for-the-badge">
-       </a>
-        <a href="https://discord.com/invite/JVhKwNGmKF" target="_blank">
-            <img src="https://badgen.net/discord/members/JVhKwNGmKF?style=for-the-badge">
-       </a>
-    </p>
-    <div align="center">
-        <br>
-        <table>
-            <tr>
-                <td align="center" width="50%">
-                    <a href="https://discord.com/users/1226523294774071346" target="_blank">
-                        <img width="100%" src="https://lanyard-profile-readme.vercel.app/api/1226523294774071346" alt="Profile Image"/>
-                    </a>
-                    <a href="https://github.com/TioMusic703" target="_blank">
-                        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=88JC&theme=dark&background=202225&border_color=202225&hide_border=true&stroke=202225" alt="GitHub Streak Stats"/>
+            =true&stroke=202225" alt="GitHub Streak Stats"/>
                     </a>
                 </td>
                 <td align="center" width="50%">
@@ -37,11 +17,4 @@
                         <img width="100%" src="https://readme-stats-plum-two.vercel.app/api?username=88JC&show_icons=true&include_all_commits=true&theme=dark&count_private=true&custom_title=Github%20Stats&bg_color=202225&border_color=202225&icon_color=58a6ff" alt="GitHub Stats"/>
                     </a>
                     <a href="https://github.com/88JC" target="_blank">
-                        <img width="100%" src="https://readme-stats-plum-two.vercel.app/api/top-langs/?username=88JC&theme=dark&bg_color=202225&layout=compact&border_color=202225&langs_count=10" alt="Top Languages"/>
-                    </a>
-                </td>
-            </tr>
-        </table>
-    </div>
-</body>
-</html>
+                        <img width="100%" src="https://readme-stats-plum-two.vercel.app/api/top-langs/?username=88JC&theme=dark&bg_color=202225&layout=compact&border_color=202225&
