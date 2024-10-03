@@ -8,7 +8,7 @@
         </a>
     </h1>
     <p align="center">
-        <a href="https://github.com/88JC/" target="_blank">
+        <a href="https://github.com/TioMusic703/" target="_blank">
             <img src="https://komarev.com/ghpvc/?username=88JC&label=Profile%20views&style=flat-square" alt="Profile views"/>
         </a>
       </p>
@@ -26,9 +26,9 @@
             <tr>
                 <td align="center" width="50%">
                     <a href="https://discord.com/users/1226523294774071346" target="_blank">
-                        <img width="100%" src="https://lanyard-profile-readme.vercel.app/api/169711695932030976" alt="Profile Image"/>
+                        <img width="100%" src="https://lanyard-profile-readme.vercel.app/api/1226523294774071346" alt="Profile Image"/>
                     </a>
-                    <a href="https://github.com/88JC" target="_blank">
+                    <a href="https://github.com/TioMusic703" target="_blank">
                         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=88JC&theme=dark&background=202225&border_color=202225&hide_border=true&stroke=202225" alt="GitHub Streak Stats"/>
                     </a>
                 </td>
